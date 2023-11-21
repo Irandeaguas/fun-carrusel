@@ -1,0 +1,33 @@
+*{
+padding: 0;
+padding-top: 0;
+}
+
+.flexbox{
+    width: 50%;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 5px;
+    padding-top: 30%;
+    padding: 15%;
+
+}
+
+.flexbox img{
+    height: 150px;
+    width: 150px;
+    border-radius: 18px;
+}
+
+.flexbox p{
+    color: rgb(0, 0, 0);
+}
+
+.grande{
+display: flex;
+padding-top: 10%;
+
+}
